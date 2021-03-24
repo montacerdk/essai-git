@@ -13,5 +13,8 @@
     "software"
   ],
   "author": "Montacer Dkhilali",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
